@@ -1,25 +1,15 @@
 {
-  "name": "funcmatch",
+  "name": "gorillatron-funcmatch",
+  "description": "Pattern matching",
   "version": "0.0.2",
-  "description": "Functional pettern matching",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha tests"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:gorillatron/func-match.git"
-  },
   "keywords": [
-    "functional",
     "pattern matching",
+    "typed functions",
+    "typed",
     "pattern",
     "matching"
   ],
-  "author": "Jørn Andre Tangen[@gorillatron]",
-  "license": "MIT",
-  "devDependencies": {
-    "mocha": "~1.8.1",
-    "async": "~0.1.22"
-  }
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
 }
